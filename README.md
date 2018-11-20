@@ -27,5 +27,5 @@ I obtained a final accuracy of  0.85  (ranking 77 overall).
 
 
 
-Overall Summary:
+### Overall Summary:
 From the above two task, I learned some techniques to train classifiers for recommendation system such as calculating the Jaccard similarity and apply decision tree to further improve accuracy, and I obtained some skills to do data mining such as vector2word and Tfidf, which are popular used in data pre-processing in NLP (neural network processing )
