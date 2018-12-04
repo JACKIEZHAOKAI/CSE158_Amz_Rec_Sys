@@ -1,6 +1,6 @@
 # Amazon_Rec_System
 
-
+# Assignment 1
 # Task 1 	Purchase Prediction 
 Purchase prediction Predict given a (user,item) pair from `pairs Purchase.txt' whether the user purchased the item (really, whether it was one of the products they reviewed). Accuracy will be measured in terms of the categorization accuracy (fraction of correct predictions). The test set has been constructed such that exactly 50% of the pairs correspond to purchased items and the other 50% do not.
 
@@ -24,8 +24,20 @@ With TfidfTransformer, I mapped words into a high dimension space to feed into a
 
 I obtained a final accuracy of  0.85  (ranking 77 overall).
 
-
-
-
 ### Overall Summary:
 From the above two task, I learned some techniques to train classifiers for recommendation system such as calculating the Jaccard similarity and apply decision tree to further improve accuracy, and I obtained some skills to do data mining such as vector2word and Tfidf, which are popular used in data pre-processing in NLP (neural network processing )
+
+# Assignment 2
+
+Perform different models to predict the review rating that will be assigned to a review given a (user, item) pair.
+
+Applied TF-IDF and word of bagging to create new features of vectors based on the review texts.
+
+Finalized data analysis, machine learning methods and preformance analysis into the final paper.
+
+
+
+
+
+
+
