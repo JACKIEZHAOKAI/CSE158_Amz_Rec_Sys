@@ -1,4 +1,4 @@
-# Amazon_Rec_System
+# Amazon_Clothes_Rec_System
 
 # Assignment 1
 # Task 1 	Purchase Prediction 
